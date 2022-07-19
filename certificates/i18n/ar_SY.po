@@ -1,0 +1,802 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* certificates
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 15.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-07 09:16+0000\n"
+"PO-Revision-Date: 2022-06-07 09:16+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1953
+msgid "1953"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1954
+msgid "1954"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1955
+msgid "1955"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1956
+msgid "1956"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1957
+msgid "1957"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1958
+msgid "1958"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1959
+msgid "1959"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1960
+msgid "1960"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1961
+msgid "1961"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1962
+msgid "1962"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1963
+msgid "1963"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1964
+msgid "1964"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1965
+msgid "1965"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1966
+msgid "1966"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1967
+msgid "1967"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1968
+msgid "1968"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1969
+msgid "1969"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1970
+msgid "1970"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1971
+msgid "1971"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1972
+msgid "1972"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1973
+msgid "1973"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1974
+msgid "1974"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1975
+msgid "1975"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1976
+msgid "1976"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1977
+msgid "1977"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1978
+msgid "1978"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1979
+msgid "1979"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1980
+msgid "1980"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1981
+msgid "1981"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1982
+msgid "1982"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1983
+msgid "1983"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1984
+msgid "1984"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1985
+msgid "1985"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1986
+msgid "1986"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1987
+msgid "1987"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1988
+msgid "1988"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1989
+msgid "1989"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1990
+msgid "1990"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1991
+msgid "1991"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1992
+msgid "1992"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1993
+msgid "1993"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1994
+msgid "1994"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1995
+msgid "1995"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1996
+msgid "1996"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1997
+msgid "1997"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1998
+msgid "1998"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__1999
+msgid "1999"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__2000
+msgid "2000"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__2001
+msgid "2001"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__2002
+msgid "2002"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__2003
+msgid "2003"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__2004
+msgid "2004"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__2005
+msgid "2005"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__2006
+msgid "2006"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__2007
+msgid "2007"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__2008
+msgid "2008"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__2009
+msgid "2009"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__2010
+msgid "2010"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__2011
+msgid "2011"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__2012
+msgid "2012"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__2013
+msgid "2013"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__2014
+msgid "2014"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__2015
+msgid "2015"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__2016
+msgid "2016"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__2017
+msgid "2017"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__2018
+msgid "2018"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__2019
+msgid "2019"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__2020
+msgid "2020"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__2021
+msgid "2021"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__2022
+msgid "2022"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_model__2023
+msgid "2023"
+msgstr ""
+
+#. module: certificates
+#: model_terms:ir.ui.view,arch_db:certificates.certificate_report_document
+msgid ""
+"<strong>\n"
+"                                        اسم المالك /\n"
+"                                    </strong>"
+msgstr ""
+
+#. module: certificates
+#: model_terms:ir.ui.view,arch_db:certificates.certificate_report_document
+msgid ""
+"<strong>\n"
+"                                        الماركة /\n"
+"                                    </strong>"
+msgstr ""
+
+#. module: certificates
+#: model_terms:ir.ui.view,arch_db:certificates.certificate_report_document
+msgid ""
+"<strong>\n"
+"                                        شاسيه رقم /\n"
+"                                    </strong>"
+msgstr ""
+
+#. module: certificates
+#: model_terms:ir.ui.view,arch_db:certificates.certificate_report_document
+msgid ""
+"<strong>\n"
+"                                        محرك رقم /\n"
+"                                    </strong>"
+msgstr ""
+
+#. module: certificates
+#: model_terms:ir.ui.view,arch_db:certificates.certificate_report_document
+msgid ""
+"<strong>\n"
+"                                        موديل /\n"
+"                                    </strong>"
+msgstr ""
+
+#. module: certificates
+#: model_terms:ir.ui.view,arch_db:certificates.certificate_report_document
+msgid ""
+"<strong>\n"
+"                            تحية طيبة وبعد ،،،،\n"
+"                        </strong>"
+msgstr ""
+
+#. module: certificates
+#: model_terms:ir.ui.view,arch_db:certificates.certificate_report_document
+msgid ""
+"<strong>\n"
+"                            شهادة صلاحية\n"
+"                        </strong>"
+msgstr ""
+
+#. module: certificates
+#: model_terms:ir.ui.view,arch_db:certificates.certificate_report_document
+msgid ""
+"<strong>\n"
+"                            وتفضلوا بقبول فائق الاحترام والتقدير،،،،\n"
+"                        </strong>"
+msgstr ""
+
+#. module: certificates
+#: model:res.groups,name:certificates.alnoor_employees_group
+msgid "Alnoor Employees"
+msgstr "مناديب"
+
+#. module: certificates
+#: model:ir.module.category,name:certificates.module_alnoor_management
+msgid "Alnoor Management"
+msgstr "إدارة النور"
+
+#. module: certificates
+#: model:res.groups,name:certificates.alnoor_manager_group
+msgid "Alnoor Manager"
+msgstr "مديرين النور"
+
+#. module: certificates
+#: model:ir.model.fields,field_description:certificates.field_expenses__amount
+msgid "Amount"
+msgstr "المبلغ"
+
+#. module: certificates
+#: model:ir.model.fields,field_description:certificates.field_certificate__brand
+msgid "Brand"
+msgstr "ماركة"
+
+#. module: certificates
+#: model:ir.model.fields,field_description:certificates.field_certificate__car_model
+msgid "Car Model"
+msgstr "موديل السيارة"
+
+#. module: certificates
+#: model:ir.model.fields,field_description:certificates.field_certificate_type__car_type
+msgid "Car Type"
+msgstr "نوع السيارة"
+
+#. module: certificates
+#: model:ir.actions.act_window,name:certificates.certificate_action
+#: model:ir.actions.report,name:certificates.action_certificate_report
+msgid "Certificate"
+msgstr "الشهادة"
+
+#. module: certificates
+#: model:ir.actions.act_window,name:certificates.certificate_type_action
+#: model:ir.model.fields,field_description:certificates.field_certificate__certificate_type
+msgid "Certificate Type"
+msgstr "نوع الشهادة"
+
+#. module: certificates
+#: model:ir.ui.menu,name:certificates.certificate_menu
+msgid "Certificates"
+msgstr "الشهادات"
+
+#. module: certificates
+#: model:ir.ui.menu,name:certificates.certificates_menu_root
+msgid "Certificates App"
+msgstr "تطبيق استخراج الشهادات"
+
+#. module: certificates
+#: model:ir.ui.menu,name:certificates.certificates_types_menu
+msgid "Certificates Types"
+msgstr "نوع الشهادات"
+
+#. module: certificates
+#: model:ir.model.fields,field_description:certificates.field_certificate__chassis_number
+msgid "Chassis Number"
+msgstr "رقم الشاسيه"
+
+#. module: certificates
+#: model:ir.model.fields,field_description:certificates.field_car_brand__create_uid
+#: model:ir.model.fields,field_description:certificates.field_certificate__create_uid
+#: model:ir.model.fields,field_description:certificates.field_certificate_customer__create_uid
+#: model:ir.model.fields,field_description:certificates.field_certificate_type__create_uid
+#: model:ir.model.fields,field_description:certificates.field_expenses__create_uid
+#: model:ir.model.fields,field_description:certificates.field_governorate__create_uid
+#: model:ir.model.fields,field_description:certificates.field_traffic_department__create_uid
+msgid "Created by"
+msgstr "أنشئ بواسطة"
+
+#. module: certificates
+#: model:ir.model.fields,field_description:certificates.field_car_brand__create_date
+#: model:ir.model.fields,field_description:certificates.field_certificate__create_date
+#: model:ir.model.fields,field_description:certificates.field_certificate_customer__create_date
+#: model:ir.model.fields,field_description:certificates.field_certificate_type__create_date
+#: model:ir.model.fields,field_description:certificates.field_expenses__create_date
+#: model:ir.model.fields,field_description:certificates.field_governorate__create_date
+#: model:ir.model.fields,field_description:certificates.field_traffic_department__create_date
+msgid "Created on"
+msgstr "تاريخ الإنشاء"
+
+#. module: certificates
+#: model:ir.model.fields,field_description:certificates.field_certificate__customer
+msgid "Customer"
+msgstr "العميل"
+
+#. module: certificates
+#: model:ir.ui.menu,name:certificates.customer_menu
+msgid "Customers"
+msgstr "العملاء"
+
+#. module: certificates
+#: model:ir.actions.act_window,name:certificates.customer_action
+msgid "Customers Action"
+msgstr "العملاء"
+
+#. module: certificates
+#: model:ir.model.fields,field_description:certificates.field_expenses__description
+msgid "Description"
+msgstr "التفاصيل"
+
+#. module: certificates
+#: model:ir.model.fields,field_description:certificates.field_car_brand__display_name
+#: model:ir.model.fields,field_description:certificates.field_certificate__display_name
+#: model:ir.model.fields,field_description:certificates.field_certificate_customer__display_name
+#: model:ir.model.fields,field_description:certificates.field_certificate_type__display_name
+#: model:ir.model.fields,field_description:certificates.field_expenses__display_name
+#: model:ir.model.fields,field_description:certificates.field_governorate__display_name
+#: model:ir.model.fields,field_description:certificates.field_traffic_department__display_name
+msgid "Display Name"
+msgstr "الاسم"
+
+#. module: certificates
+#: model:ir.ui.menu,name:certificates.expenses_menu
+msgid "Expenses"
+msgstr "المصروفات"
+
+#. module: certificates
+#: model:ir.actions.act_window,name:certificates.expenses_action
+msgid "Expenses Action"
+msgstr "المصروفات"
+
+#. module: certificates
+#: model:ir.model.fields,field_description:certificates.field_expenses__governorate_id
+#: model:ir.model.fields,field_description:certificates.field_traffic_department__governorate_id
+msgid "Governorate"
+msgstr "المحافظة"
+
+#. module: certificates
+#: model:ir.model.fields,field_description:certificates.field_car_brand__id
+#: model:ir.model.fields,field_description:certificates.field_certificate__id
+#: model:ir.model.fields,field_description:certificates.field_certificate_customer__id
+#: model:ir.model.fields,field_description:certificates.field_certificate_type__id
+#: model:ir.model.fields,field_description:certificates.field_expenses__id
+#: model:ir.model.fields,field_description:certificates.field_governorate__id
+#: model:ir.model.fields,field_description:certificates.field_traffic_department__id
+msgid "ID"
+msgstr "التسلسل"
+
+#. module: certificates
+#: model:ir.model.fields,field_description:certificates.field_car_brand____last_update
+#: model:ir.model.fields,field_description:certificates.field_certificate____last_update
+#: model:ir.model.fields,field_description:certificates.field_certificate_customer____last_update
+#: model:ir.model.fields,field_description:certificates.field_certificate_type____last_update
+#: model:ir.model.fields,field_description:certificates.field_expenses____last_update
+#: model:ir.model.fields,field_description:certificates.field_governorate____last_update
+#: model:ir.model.fields,field_description:certificates.field_traffic_department____last_update
+msgid "Last Modified on"
+msgstr "تاريخ التعديل"
+
+#. module: certificates
+#: model:ir.model.fields,field_description:certificates.field_car_brand__write_uid
+#: model:ir.model.fields,field_description:certificates.field_certificate__write_uid
+#: model:ir.model.fields,field_description:certificates.field_certificate_customer__write_uid
+#: model:ir.model.fields,field_description:certificates.field_certificate_type__write_uid
+#: model:ir.model.fields,field_description:certificates.field_expenses__write_uid
+#: model:ir.model.fields,field_description:certificates.field_governorate__write_uid
+#: model:ir.model.fields,field_description:certificates.field_traffic_department__write_uid
+msgid "Last Updated by"
+msgstr "أخر تعديل بواسطة"
+
+#. module: certificates
+#: model:ir.model.fields,field_description:certificates.field_car_brand__write_date
+#: model:ir.model.fields,field_description:certificates.field_certificate__write_date
+#: model:ir.model.fields,field_description:certificates.field_certificate_customer__write_date
+#: model:ir.model.fields,field_description:certificates.field_certificate_type__write_date
+#: model:ir.model.fields,field_description:certificates.field_expenses__write_date
+#: model:ir.model.fields,field_description:certificates.field_governorate__write_date
+#: model:ir.model.fields,field_description:certificates.field_traffic_department__write_date
+msgid "Last Updated on"
+msgstr "تاريخ التعديل"
+
+#. module: certificates
+#: model:ir.model.fields,field_description:certificates.field_certificate__motor_number
+msgid "Motor Number"
+msgstr "رقم الموتور"
+
+#. module: certificates
+#: model:ir.model.fields,field_description:certificates.field_car_brand__name
+#: model:ir.model.fields,field_description:certificates.field_certificate_customer__name
+#: model:ir.model.fields,field_description:certificates.field_certificate_type__name
+#: model:ir.model.fields,field_description:certificates.field_governorate__name
+#: model:ir.model.fields,field_description:certificates.field_traffic_department__name
+msgid "Name"
+msgstr "الاسم"
+
+#. module: certificates
+#: model:ir.model.fields,field_description:certificates.field_certificate__reference_no
+msgid "Order Reference"
+msgstr "رقم الشهادة"
+
+#. module: certificates
+#: model:ir.model.fields,field_description:certificates.field_certificate_customer__phone
+msgid "Phone"
+msgstr "الموبايل"
+
+#. module: certificates
+#: model:ir.model.fields,field_description:certificates.field_certificate__price
+msgid "Price"
+msgstr "السعر"
+
+#. module: certificates
+#: model:ir.actions.act_window,name:certificates.traffic_department_action
+#: model:ir.model.fields,field_description:certificates.field_certificate__traffic_department_id
+#: model:ir.model.fields,field_description:certificates.field_expenses__traffic_department_id
+#: model:ir.ui.menu,name:certificates.traffic_department_menu
+msgid "Traffic Department"
+msgstr "إدارة المرور"
+
+#. module: certificates
+#: model:ir.model,name:certificates.model_car_brand
+msgid "car.brand"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model,name:certificates.model_certificate
+msgid "certificate"
+msgstr "الشهادة"
+
+#. module: certificates
+#: model:ir.model,name:certificates.model_certificate_customer
+msgid "certificate.customer"
+msgstr "العميل"
+
+#. module: certificates
+#: model:ir.model,name:certificates.model_certificate_type
+msgid "certificate.type"
+msgstr "نوع الشهادة"
+
+#. module: certificates
+#: model:ir.model,name:certificates.model_expenses
+msgid "expenses"
+msgstr "مصروفات"
+
+#. module: certificates
+#: model:ir.model,name:certificates.model_governorate
+msgid "governorate"
+msgstr "محافظة"
+
+#. module: certificates
+#: model:ir.model,name:certificates.model_traffic_department
+msgid "traffic.department"
+msgstr ""
+
+#. module: certificates
+#: model_terms:ir.ui.view,arch_db:certificates.certificate_report_document
+msgid "أتشرف بإفادة سيادتكم بأنه تم تعديل /"
+msgstr ""
+
+#. module: certificates
+#: model_terms:ir.ui.view,arch_db:certificates.certificate_tree
+msgid "إجمالى"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields,field_description:certificates.field_certificate__price
+msgid "السعر"
+msgstr ""
+
+#. module: certificates
+#: model_terms:ir.ui.view,arch_db:certificates.certificate_report_document
+msgid "أتشرف بإفادة سيادتكم بأنه تم تعديل /"
+msgstr ""
+
+#. module: certificates
+#: model_terms:ir.ui.view,arch_db:certificates.certificate_report_document
+msgid "السيد اللواء مدير إدارة مرور /"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_type__bus
+#: model:ir.model.fields.selection,name:certificates.selection__certificate_type__car_type__bus
+msgid "باص"
+msgstr ""
+
+#. module: certificates
+#: model_terms:ir.ui.view,arch_db:certificates.certificate_report_document
+msgid "تحريرا في"
+msgstr ""
+
+#. module: certificates
+#: model_terms:ir.ui.view,arch_db:certificates.certificate_report_document
+msgid ""
+"حيث أن المؤسسة معتمدة بالهيئة العامة للتنمية الصناعية ومصلحة الرقابة الصناعية ومعتمدة\n"
+"                        بإدارات المرور ولها سجل تجاري صناعي وبطاقة ضريبية بهذه الصفة وقد تم فحص التعديل والتركيب\n"
+"                        واللحامات\n"
+"                        والإصلاحات اللازمة طبقا لأصول الصناعة ودون الإخلال بالتصميم الأصلي ودون المساس بالأجزاء الجوهرية\n"
+"                        للسيارة وقد تم تجربة السيارة على الطرق المصرية ووجد أنها متزنة وهذه شهادة منا بذلك لتقديمها\n"
+"                        للمرور\n"
+"                        والمالك مسؤول مسئولية كاملة عن بيانات الشهادة فبرجاء التكرم والتفضل بالموافقة على\n"
+"                        ترخيص السيارة"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_type__rob3
+#: model:ir.model.fields.selection,name:certificates.selection__certificate_type__car_type__rob3
+msgid "ربع نقل"
+msgstr ""
+
+#. module: certificates
+#: model_terms:ir.ui.view,arch_db:certificates.certificate_graph
+msgid "رسوم بيانية"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields,field_description:certificates.field_certificate__reference_no
+msgid "سيريال"
+msgstr ""
+
+#. module: certificates
+#: model_terms:ir.ui.view,arch_db:certificates.certificate_form
+msgid "طباعة"
+msgstr ""
+
+#. module: certificates
+#: model_terms:ir.ui.view,arch_db:certificates.certificate_report_document
+msgid "مؤسسة النور للتجارة والصناعة"
+msgstr ""
+
+#. module: certificates
+#: model_terms:ir.ui.view,arch_db:certificates.certificate_report_document
+msgid "محمد يوسف المطحنة"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_type__mlaky
+#: model:ir.model.fields.selection,name:certificates.selection__certificate_type__car_type__mlaky
+msgid "ملاكي"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_type__micro_bus
+#: model:ir.model.fields.selection,name:certificates.selection__certificate_type__car_type__micro_bus
+msgid "ميكروباص"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_type__mini_bus
+#: model:ir.model.fields.selection,name:certificates.selection__certificate_type__car_type__mini_bus
+msgid "ميني باص"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_type__nesf
+#: model:ir.model.fields.selection,name:certificates.selection__certificate_type__car_type__nesf
+msgid "نصف نقل"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields.selection,name:certificates.selection__certificate__car_type__naql
+#: model:ir.model.fields.selection,name:certificates.selection__certificate_type__car_type__naql
+msgid "نقل ثقيل"
+msgstr ""
+
+#. module: certificates
+#: model:ir.model.fields,field_description:certificates.field_certificate__car_type
+msgid "نوع السيارة"
+msgstr ""

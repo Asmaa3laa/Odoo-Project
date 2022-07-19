@@ -8,9 +8,7 @@
             <field name="arch" type="xml">
                 <form>
                     <header>
-                        <button type="action" name="%(action_certificate_report)d" string="طباعة"
-                        attrs="{'invisible': [('allowed_to_print', '=', False)]}"/>
-                        <button type="object" name="re_allow_certificate_printing" string="إعادة السماح بالطباعة"/>
+                        <button type="action" name="%(action_certificate_report)d" string="طباعة"/>
                     </header>
                     <sheet>
                         <group>
@@ -41,10 +39,6 @@
                                        attrs="{'invisible': [('certificate_type', '=', False)]}"/>
                                 <field name="other_brand_text"
                                        attrs="{'invisible': [('other_brand', '=', False)]}"/>
-                            </group>
-                            <group>
-                                <field name="number_of_prints"/>
-                                <field name="allowed_to_print" invisible="1"/>
                             </group>
                         </group>
                     </sheet>

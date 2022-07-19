@@ -12,8 +12,6 @@
         'reports/report_certificate_template.xml',
         'views/certificate_type_views.xml',
         'views/certificate_views.xml',
-        'views/customer_views.xml',
-        'views/expenses_views.xml',
         'data/ir_sequence.xml'
     ],
     'installable': True,

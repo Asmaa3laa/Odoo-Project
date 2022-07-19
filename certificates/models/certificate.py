@@ -45,9 +45,6 @@ class Certificate(models.Model):
         vals['reference_no'] = self.env['ir.sequence'].next_by_code('certificate')
         return super().create(vals)
 
-    def re_allow_certificate_printing(self):
-        self.allowed_to_print = True
-
 
 class TrafficDepartment(models.Model):
     _name = 'traffic.department'
