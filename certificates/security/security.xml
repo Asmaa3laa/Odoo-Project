@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <record id="module_alnoor_management" model="ir.module.category">
+            <field name="name">Alnoor Management</field>
+        </record>
+
+        <record id="alnoor_employees_group" model="res.groups">
+            <field name="name">Alnoor Employees</field>
+            <field name="category_id" ref="module_alnoor_management"/>
+        </record>
+
+        <record id="alnoor_manager_group" model="res.groups">
+            <field name="name">Alnoor Manager</field>
+            <field name="category_id" ref="module_alnoor_management"/>
+        </record>
+
+        <record id="alnoor_employee_view_my_certificates" model="ir.rule">
+            <field name="name">View my certificates only</field>
+            <field name="model_id" ref="model_certificate"/>
+            <field name="groups" eval="[(4, ref('alnoor_employees_group'))]"/>
+            <field name="domain_force">[('create_uid', '=', user.id)]</field>
+        </record>
+
+        <record id="alnoor_employee_view_all_certificates" model="ir.rule">
+            <field name="name">View all certificates</field>
+            <field name="model_id" ref="model_certificate"/>
+            <field name="groups" eval="[(4, ref('alnoor_manager_group'))]"/>
+            <field name="domain_force">[]</field>
+        </record>
+
+        <record id="alnoor_employee_view_my_customers" model="ir.rule">
+            <field name="name">View my customers only</field>
+            <field name="model_id" ref="model_certificate_customer"/>
+            <field name="groups" eval="[(4, ref('alnoor_employees_group'))]"/>
+            <field name="domain_force">[('create_uid', '=', user.id)]</field>
+        </record>
+
+        <record id="alnoor_employee_view_all_customers" model="ir.rule">
+            <field name="name">View all customers</field>
+            <field name="model_id" ref="model_certificate_customer"/>
+            <field name="groups" eval="[(4, ref('alnoor_manager_group'))]"/>
+            <field name="domain_force">[]</field>
+        </record>
+
+        <record id="alnoor_employee_view_my_expenses" model="ir.rule">
+            <field name="name">View my expenses only</field>
+            <field name="model_id" ref="model_expenses"/>
+            <field name="groups" eval="[(4, ref('alnoor_employees_group'))]"/>
+            <field name="domain_force">[('create_uid', '=', user.id)]</field>
+        </record>
+
+        <record id="alnoor_employee_view_all_expenses" model="ir.rule">
+            <field name="name">View all expenses</field>
+            <field name="model_id" ref="model_expenses"/>
+            <field name="groups" eval="[(4, ref('alnoor_manager_group'))]"/>
+            <field name="domain_force">[]</field>
+        </record>
+
+    </data>
+</odoo>

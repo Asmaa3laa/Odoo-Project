@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+
+        <record id="certificate_form" model="ir.ui.view">
+            <field name="name">certificate.form</field>
+            <field name="model">certificate</field>
+            <field name="arch" type="xml">
+                <form>
+                    <header>
+                        <button type="action" name="%(action_certificate_report)d" string="طباعة"
+                        attrs="{'invisible': [('allowed_to_print', '=', False)]}"/>
+                        <button type="object" name="re_allow_certificate_printing" string="إعادة السماح بالطباعة"/>
+                    </header>
+                    <sheet>
+                        <group>
+                            <group>
+                                <field name="car_type"/>
+                                <field name="certificate_type"
+                                       attrs="{'invisible': [('car_type', '=', False)]}"/>
+                                <field name="traffic_department_id"
+                                       attrs="{'invisible': [('certificate_type', '=', False)]}"/>
+                                <field name="customer"
+                                       attrs="{'invisible': [('certificate_type', '=', False)]}"/>
+                                <field name="price"
+                                       attrs="{'invisible': [('certificate_type', '=', False)]}"/>
+                            </group>
+                            <group>
+                                <field name="motor_number"
+                                       attrs="{'invisible': [('certificate_type', '=', False)]}"/>
+                                <field name="chassis_number"
+                                       attrs="{'invisible': [('certificate_type', '=', False)]}"/>
+                                <field name="car_model"
+                                       attrs="{'invisible': [('certificate_type', '=', False)]}"/>
+                                <field name="brand"
+                                       attrs="{'invisible': ['|',
+                                       ('certificate_type', '=', False),
+                                       ('other_brand', '=', True),
+                                       ]}"/>
+                                <field name="other_brand"
+                                       attrs="{'invisible': [('certificate_type', '=', False)]}"/>
+                                <field name="other_brand_text"
+                                       attrs="{'invisible': [('other_brand', '=', False)]}"/>
+                            </group>
+                            <group>
+                                <field name="number_of_prints"/>
+                                <field name="allowed_to_print" invisible="1"/>
+                            </group>
+                        </group>
+                    </sheet>
+                </form>
+            </field>
+        </record>
+
+        <record id="certificate_tree" model="ir.ui.view">
+            <field name="name">certificate.tree</field>
+            <field name="model">certificate</field>
+            <field name="arch" type="xml">
+                <tree>
+                    <field name="reference_no"/>
+                    <field name="car_type"/>
+                    <field name="certificate_type"/>
+                    <field name="traffic_department_id"/>
+                    <field name="customer"/>
+                    <field name="car_model"/>
+                    <field name="brand"/>
+                    <field name="price" sum="إجمالى"/>
+                </tree>
+            </field>
+        </record>
+
+        <record id="certificate_type_tree" model="ir.ui.view">
+            <field name="name">certificate.type.tree</field>
+            <field name="model">certificate.type</field>
+            <field name="arch" type="xml">
+                <tree>
+                    <field name="name"/>
+                    <field name="car_type"/>
+                </tree>
+            </field>
+        </record>
+
+        <record id="certificate_graph" model="ir.ui.view">
+            <field name="name">certificate.graph</field>
+            <field name="model">certificate</field>
+            <field name="arch" type="xml">
+                <graph string="رسوم بيانية">
+                    <field name="certificate_type"/>
+                    <field name="traffic_department_id"/>
+                </graph>
+            </field>
+        </record>
+
+        <record id="certificate_action" model="ir.actions.act_window">
+            <field name="name">Certificate</field>
+            <field name="res_model">certificate</field>
+            <field name="view_mode">tree,form,graph</field>
+        </record>
+
+        <menuitem id="certificate_menu" name="Certificates"
+                  parent="certificates_menu_root" action="certificate_action" sequence="1"/>
+    </data>
+</odoo>

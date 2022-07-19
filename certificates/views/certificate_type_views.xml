@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+
+        <record id="certificate_type_form" model="ir.ui.view">
+            <field name="name">certificate.type.form</field>
+            <field name="model">certificate.type</field>
+            <field name="arch" type="xml">
+                <form>
+                    <group>
+                        <field name="name"/>
+                        <field name="car_type"/>
+                    </group>
+                </form>
+            </field>
+        </record>
+
+        <record id="certificate_type_action" model="ir.actions.act_window">
+            <field name="name">Certificate Type</field>
+            <field name="res_model">certificate.type</field>
+        </record>
+
+         <record id="traffic_department_action" model="ir.actions.act_window">
+            <field name="name">Traffic Department</field>
+            <field name="res_model">traffic.department</field>
+        </record>
+
+        <menuitem id="certificates_menu_root" name="Certificates App"/>
+
+        <menuitem id="certificates_types_menu" name="Certificates Types"
+                    parent="certificates_menu_root" action="certificate_type_action"/>
+
+        <menuitem id="traffic_department_menu" name="Traffic Department"
+                    parent="certificates_menu_root" action="traffic_department_action"/>
+
+
+    </data>
+</odoo>
